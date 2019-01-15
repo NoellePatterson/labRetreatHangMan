@@ -14,7 +14,7 @@ This project uses [Python3](https://www.python.org/) or [R](https://www.r-projec
    cd PROJECT_FOLDER/
    ```
 
-3. Create and activate virtualenv
+3. Create and activate virtualenv:
 
    ```
    python3 -m venv my-virtualenv
